@@ -1,5 +1,27 @@
 .App {
   text-align: center;
+  font-family: monospace;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100%;
+  background: #252934;
+}
+
+section {
+  position: relative;
+  height: 100vh;
 }
 
 .App-logo {

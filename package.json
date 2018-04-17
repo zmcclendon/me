@@ -5,6 +5,7 @@
   "homepage": "http://zmcclendon.github.io/me",
   "dependencies": {
     "react": "^16.3.1",
+    "react-bootstrap": "^0.32.1",
     "react-dom": "^16.3.1",
     "react-scripts": "1.1.4"
   },
